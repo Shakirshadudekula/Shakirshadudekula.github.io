@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+   <h1  align="center" >
+    <font face="Lato" color="black" size="35"> SHAKIR ACADEMY </font></h1> <meta charset="utf-8">
+	<title>shakir eng med school</title>
+</head>
+<body background="https://media-cdn.tripadvisor.com/media/photo-s/15/a5/28/14/img-20181205-225511-230.jpg" link="#000" alink="#017bf5" vlink="#000">                   
+	<h3 align="left">
+		<font face="Lato" size="6">LOGO</font>
+		&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+		&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+		&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+		<font face="cinzel" size="4">
+			<a href="#">HOME</a>&nbsp;&nbsp;&nbsp;&nbsp;
+			<a href="#">VIDEOS</a>&nbsp;&nbsp;&nbsp;&nbsp;
+			<a href="#">PORTFOLIO</a>&nbsp;&nbsp;&nbsp;&nbsp;
+			<a href="#">BLOG</a>&nbsp;&nbsp;&nbsp;&nbsp;
+			<a href="#">CONTACT US</a>
+		</font>
+    <marquee width="70%"> diamonds are made at heavy pressure</marquee>
+	</h3>
+	<br /><br /><br /><br /><br /><br /><br /><br /><br /><br />
+	<h1 align="center">
+		<font face="Lato" color="#017bf5" size="7">
+			a place inspires to achieve
+		</font>
+	</h1>
+	<h3 align="center">
+		<font face="Lato" color="#000" size="5">
+			teaches knowledge no spoonfeed
+		</font>
+	</h3>
+	<br />
+	<h3 align="center">
+	<a href="#">
+		<font face="Lato" color="#000">GET STARTED</font>
+	</a>&nbsp;&nbsp;&nbsp;&nbsp;
+	<a href="#">
+		<font face="Lato" color="#ffg">SUBSCRIBE US</font>
+	</a>
+	</h3>
+</body>
+</html>
